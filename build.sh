@@ -2,7 +2,7 @@ SPARK_VERSION="2.4.5"
 HADOOP_VERSION="2.7"
 JUPYTERLAB_VERSION="2.1.5"
 
-# -- Building the Images
+# -- Building the Images practive dev
 
 docker build \
   -f cluster-base.Dockerfile \
